@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'testeback'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14CF97A2046D4005B882332AA20F2ABB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D0965A8C7235403EAA05B1B9D19D9B5D }}
           package: .
